@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Office-Notes-WebApp/static/css/main.073c9b0a.css",
+    "main.js": "/Office-Notes-WebApp/static/js/main.52bb6244.js",
+    "static/js/787.9243050f.chunk.js": "/Office-Notes-WebApp/static/js/787.9243050f.chunk.js",
+    "index.html": "/Office-Notes-WebApp/index.html",
+    "main.073c9b0a.css.map": "/Office-Notes-WebApp/static/css/main.073c9b0a.css.map",
+    "main.52bb6244.js.map": "/Office-Notes-WebApp/static/js/main.52bb6244.js.map",
+    "787.9243050f.chunk.js.map": "/Office-Notes-WebApp/static/js/787.9243050f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.52bb6244.js"
+  ]
+}
