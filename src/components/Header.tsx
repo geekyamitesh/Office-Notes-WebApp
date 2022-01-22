@@ -9,7 +9,7 @@ const Header: React.FunctionComponent<IHeaderProps> = (props) => {
         <Navbar fixed="top" bg="dark" variant="dark">
             <Container>
                 <Navbar.Brand>
-                    Office Notes Web App
+                    Office Notes (MoM)
                 </Navbar.Brand>
             </Container>
       </Navbar>
