@@ -1,14 +1,6 @@
-import React from 'react';
-import { useState } from 'react';
+import React ,{ useState } from 'react';
 import './App.css';
-
-interface Note{
-  id:string,
-  title:string,
-  text:string,
-  color:string,
-  date:string 
-}
+import { Note } from './Interfaces/NoteInterface';
 
 function App() {
   const [notes, setNotes] = useState<Note[]>([{
@@ -22,9 +14,7 @@ function App() {
 
 
   return (
-    <div className="App">
     
-    </div>
   );
 }
 
